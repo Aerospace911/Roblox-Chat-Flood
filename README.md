@@ -6,6 +6,8 @@ This is meant to be used while multiboxing.
 
 To initiate the chat flood, push Ctrl + Shift + B.
 
+Was used in conjunction with DNServer.py and DNClient.py to broadcast commands to other copmuters to perform actions at the same time. If someone asks me to release these files, I will.
+
 The script should be self explanatory.
 
 ![image](https://github.com/user-attachments/assets/0f74f4c4-7a6c-4406-a3ed-ab88d2fd431e)
